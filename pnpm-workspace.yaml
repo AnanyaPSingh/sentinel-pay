@@ -1,0 +1,15 @@
+packages:
+  - 'anchor'
+  - 'backend'
+  - 'frontend'
+allowBuilds:
+  '@stellar/stellar-sdk': true
+  bigint-buffer: false
+  blake-hash: true
+  bufferutil: false
+  protobufjs: true
+  sqlite3: false
+  tiny-secp256k1: true
+  unrs-resolver: false
+  usb: true
+  utf-8-validate: false

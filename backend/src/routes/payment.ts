@@ -1,4 +1,4 @@
-import crypto from "crypto";
+import * as crypto from "crypto";
 import { Router, Request, Response } from "express";
 import { runQuerySingle, runQuery, runQueryExec } from "../db/database";
 import { evaluateKyt } from "../services/kytService";
