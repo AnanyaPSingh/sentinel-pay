@@ -4,7 +4,7 @@
 resolution = true
 skip-lint = false
 
-[programs.localnet]
+[programs.devnet]
 sentinel_pay = "FCJT6A8icN4VetnrzH1TTD9Kgi2k8zjCAkDSUzUuzXEY"
 
 [registry]
